@@ -1,4 +1,4 @@
-# 🧠 Beginner Git Teaching Guide
+# 🧠 Git Cheatsheet
 
 ## 1. What is Git?
 - Git is a **version control system**.
@@ -82,7 +82,5 @@ git push origin main
 ## 🧩 Bonus Concepts
 - `git stash`: Save changes temporarily.
 - `git rebase`: Rewrite commit history.
-- Git GUIs: GitKraken, VS Code Git Panel.
+- Git GUIs: VS Code Git Panel.
 
-## 📄 Tip: Create a Git Cheatsheet
-Provide learners with a one-page Git cheatsheet for quick reference.
