@@ -23,14 +23,11 @@ git config --global user.email "you@example.com"
 | `git add file.txt` | Stage a file |
 | `git commit -m "message"` | Save a snapshot |
 | `git log` | Show commit history |
-| `git diff` | View file differences |
 | `git clone <url>` | Copy a remote repo locally |
 | `git pull` | Fetch and merge changes from remote |
 | `git push` | Upload local changes to remote |
 
 ## 5. The Git Workflow
-```text
-Working Directory → Staging Area → Repository
 ```
 ```bash
 git add .
